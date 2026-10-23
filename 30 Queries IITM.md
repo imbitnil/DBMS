@@ -1,7 +1,5 @@
 # 30 Queries IITM
 
-[SQL_Practice_Solutions_30_QA.docx](SQL_Practice_Solutions_30_QA.docx)
-
 I’ve organized your 30 SQL practice questions into a clean, readable study-note format. The original question numbering, database names, and SQL concepts are preserved, with corrected formatting and explanations where useful.
 
 A few queries in the supplied notes may need correction depending on the database schema or SQL dialect. I’ve highlighted the most important issues rather than silently changing the intended answers.
