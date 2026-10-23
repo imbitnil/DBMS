@@ -1,7 +1,5 @@
 # 50+ Queries
 
-[SQL_Tutorial_Notes_50_Practical_Queries.docx](SQL_Tutorial_Notes_50_Practical_Queries.docx)
-
 Here is your SQL tutorial converted into a Notion-ready format with clean headings, toggle-friendly query sections, SQL code blocks, explanations, and practice tasks. You can copy and paste it directly into a Notion page.
 
 # SQL Tutorial Notes: 50 Practical Queries
